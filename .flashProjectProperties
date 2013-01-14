@@ -1,0 +1,30 @@
+<projectDescription>
+  <id>1307278384323</id>
+  <name>Game2</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/shannensekaya/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/shannensekaya/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh%20HD/Users/shannensekaya/Dropbox/School/ActionScript%203/Game2/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Game.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/Game.as</uri>
+    <uri label="Block.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/Block.as</uri>
+    <uri label="SubmitScore.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/SubmitScore.as</uri>
+    <uri label="HowTo.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/HowTo.as</uri>
+    <uri label="ScoreList.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/ScoreList.as</uri>
+    <uri label="MainMenu.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/MainMenu.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/Main.as</uri>
+    <uri label="Static.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/Static.as</uri>
+    <uri label="Level.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/Level.as</uri>
+    <uri label="game.fla">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/game.fla</uri>
+    <uri label="levels.xml">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/levels.xml</uri>
+    <uri label="game.swf">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Game2/game.swf</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

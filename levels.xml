@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level id="1" required="120" />
+	<level id="2" required="160" />
+	<level id="3" required="200" />
+	<level id="4" required="240" />
+	<level id="5" required="280" />
+	<level id="6" required="300" />
+</levels>
